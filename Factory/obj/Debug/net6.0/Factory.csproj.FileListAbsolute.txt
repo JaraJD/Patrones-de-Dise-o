@@ -1,0 +1,15 @@
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\bin\Debug\net6.0\Factory.exe
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\bin\Debug\net6.0\Factory.deps.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\bin\Debug\net6.0\Factory.runtimeconfig.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\bin\Debug\net6.0\Factory.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\bin\Debug\net6.0\Factory.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\obj\Debug\net6.0\Factory.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\obj\Debug\net6.0\refint\Factory.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\obj\Debug\net6.0\Factory.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\obj\Debug\net6.0\Factory.genruntimeconfig.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Factory\obj\Debug\net6.0\ref\Factory.dll
