@@ -1,0 +1,15 @@
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\bin\Debug\net6.0\Observable.exe
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\bin\Debug\net6.0\Observable.deps.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\bin\Debug\net6.0\Observable.runtimeconfig.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\bin\Debug\net6.0\Observable.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\bin\Debug\net6.0\Observable.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\obj\Debug\net6.0\Observable.csproj.AssemblyReference.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\obj\Debug\net6.0\Observable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\obj\Debug\net6.0\Observable.AssemblyInfoInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\obj\Debug\net6.0\Observable.AssemblyInfo.cs
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\obj\Debug\net6.0\Observable.csproj.CoreCompileInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\obj\Debug\net6.0\Observable.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\obj\Debug\net6.0\refint\Observable.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\obj\Debug\net6.0\Observable.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\obj\Debug\net6.0\Observable.genruntimeconfig.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Observable\obj\Debug\net6.0\ref\Observable.dll

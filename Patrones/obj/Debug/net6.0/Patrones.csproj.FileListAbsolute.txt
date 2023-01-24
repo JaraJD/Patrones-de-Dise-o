@@ -1,0 +1,15 @@
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\bin\Debug\net6.0\Patrones.exe
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\bin\Debug\net6.0\Patrones.deps.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\bin\Debug\net6.0\Patrones.runtimeconfig.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\bin\Debug\net6.0\Patrones.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\bin\Debug\net6.0\Patrones.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\obj\Debug\net6.0\Patrones.csproj.AssemblyReference.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\obj\Debug\net6.0\Patrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\obj\Debug\net6.0\Patrones.AssemblyInfoInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\obj\Debug\net6.0\Patrones.AssemblyInfo.cs
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\obj\Debug\net6.0\Patrones.csproj.CoreCompileInputs.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\obj\Debug\net6.0\Patrones.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\obj\Debug\net6.0\refint\Patrones.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\obj\Debug\net6.0\Patrones.pdb
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\obj\Debug\net6.0\Patrones.genruntimeconfig.cache
+C:\Users\juans\Desktop\Programacion\C# .NET\Sofka\ejericios\PatronesDeDiseño\Patrones\Patrones\obj\Debug\net6.0\ref\Patrones.dll
