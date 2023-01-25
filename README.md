@@ -7,3 +7,7 @@ y notificar cuando un objeto ha sufrido cambios.
 Se implementa patron de diseño Factory implementando una interfaz IWeapon encargada de asiganar un comportamiento a las clases hijas y mediante una
 clase WeaponFactory realizar una instancia de una clase u otra segun su comportambiento.
 
+Se implementa patron de diseño Singleton asegurando de que una clase Logger solo pueda tener una instancia de dicha clase.
+
+
+
